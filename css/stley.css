@@ -1,0 +1,55 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.conter {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.btn2 {
+    display: flex;
+    margin: 12px;
+}
+
+
+.covent {
+
+    background-color: rgb(52, 222, 222);
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    max-width: 460px;
+
+}
+
+
+
+.btn2 {
+    display: flex;
+    margin: 12px;
+    border-radius: 10px;
+}
+
+.hgs {
+    display: flex;
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+}
+
+.numbgdj {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    align-items: center;
+}
